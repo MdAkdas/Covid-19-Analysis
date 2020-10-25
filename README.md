@@ -11,3 +11,14 @@ Using the data from Johns Hopkins University Center for Systems Science and Engi
 
 ### Screenshots  :: 
 
+![image](https://user-images.githubusercontent.com/43089126/97109219-efbff500-16f7-11eb-9060-d9be61e21a6a.png)
+
+![image](https://user-images.githubusercontent.com/43089126/97109292-6d840080-16f8-11eb-91c2-7424ebaf0c83.png)
+
+![image](https://user-images.githubusercontent.com/43089126/97109322-a0c68f80-16f8-11eb-9024-ee9960c7ffad.png)
+
+![image](https://user-images.githubusercontent.com/43089126/97109352-c94e8980-16f8-11eb-84c0-8e3307f63490.png)
+
+
+## Conclusion
+#### COVID19 cases are more in developed countries than less developed countries may be due to unavailability of test kits.
